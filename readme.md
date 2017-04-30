@@ -18,4 +18,5 @@ To run the program, do the following:
   8. Type "chmod +x SomeApp.app/Contents/MacOS/\*" into the command line
   9. Run the file DigitalArt3
   10. Hit play
+  
 The application can be run using a mouse and keyboard or using a controller
